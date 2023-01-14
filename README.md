@@ -11,7 +11,7 @@
 
 - 🌱 I’m a **Full stack MERN developer**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-sitee.netlify.app/portfolio](https://my-portfolio-sitee.netlify.app/portfolio)
+- 👨‍💻 All of my projects are available at [https://rishudev.netlify.app/](https://rishudev.netlify.app/)
 
 - 📫 How to reach me **rishusingh9369@gmail.com**
 
