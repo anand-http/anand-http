@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishu-singh9695&label=Profile%20views&color=0e75b6&style=flat" alt="rishu-singh9695" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishu_singh9695" target="blank"><img src="https://img.shields.io/twitter/follow/rishu_singh9695?logo=twitter&style=for-the-badge" alt="rishu_singh9695" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Anand_FitDev" target="blank"><img src="https://img.shields.io/twitter/follow/Anand_FitDev?logo=twitter&style=for-the-badge" alt="Anand_FitDev" /></a> </p>
 
 - 🌱 I’m a **Full stack MERN developer**
 
-- 👨‍💻 All of my projects are available at [https://rishudev.netlify.app/](https://rishudev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://anandfitdev.netlify.app/](https://anandfitdev.netlify.app/)
 
 - 📫 How to reach me **rishusingh9369@gmail.com**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rishu_singh9695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishu_singh9695" height="30" width="40" /></a>
+<a href="https://twitter.com/Anand_FitDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishu_singh9695" height="30" width="40" /></a>
 <a href="https://instagram.com/its_rishu.singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_rishu.singh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCe5mJ3Lv97C6xWn4aU-YXQg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="write code" height="30" width="40" /></a>
 </p>
