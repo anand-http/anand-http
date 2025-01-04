@@ -14,19 +14,17 @@
 
 - 🌱 I’m a Full stack **MERN developer**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://anand-http.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://anand-http.vercel.app/)
 
-- 📫 How to reach me **rishusingh9369@gmail.com**
+- 📫 How to reach me **anandxhttp@gmail.com**
 
 - ⚡ Fun fact **To understand recursion, you must first understand recursion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anand_http" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anand_fitdev" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anand-pratap-singh-5223291a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anand-pratap-singh-5223291a6/" height="30" width="40" /></a>
-<a href="https://instagram.com/anand_http" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anand_fitdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@anand_http" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uce5mj3lv97c6xwn4au-yxqg" height="30" width="40" /></a>
-<a href="https://leetcode.com/rishu-singh9695/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rishu-singh9695/" height="30" width="40" /></a>
+<a href="https://twitter.com/Anandxhttp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anand_fitdev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anand-pratap-singh-483b46334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anand-pratap-singh-5223291a6/" height="30" width="40" /></a>
+<a href="https://leetcode.com/anandxhttp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rishu-singh9695/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
