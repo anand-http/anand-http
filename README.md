@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 
-<p align="left"> <a href="https://twitter.com/anand_fitdev" target="blank"><img src="https://img.shields.io/twitter/follow/anand-http?logo=twitter&style=for-the-badge" alt="anand-http" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Anandxhttp" target="blank"><img src="https://img.shields.io/twitter/follow/anandxhttp?logo=twitter&style=for-the-badge" alt="anandxhttp" /></a> </p>
 
 
 
